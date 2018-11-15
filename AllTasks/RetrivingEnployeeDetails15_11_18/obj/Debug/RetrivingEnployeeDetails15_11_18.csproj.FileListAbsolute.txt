@@ -1,0 +1,11 @@
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\bin\Debug\RetrivingEnployeeDetails15_11_18.exe.config
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\bin\Debug\RetrivingEnployeeDetails15_11_18.exe
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\bin\Debug\RetrivingEnployeeDetails15_11_18.pdb
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\bin\Debug\DAL_RetrivingEmployeeDetails.exe
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\bin\Debug\DAL_RetrivingEmployeeDetails.pdb
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\bin\Debug\DAL_RetrivingEmployeeDetails.exe.config
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\obj\Debug\RetrivingEnployeeDetails15_11_18.csprojAssemblyReference.cache
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\obj\Debug\RetrivingEnployeeDetails15_11_18.csproj.CoreCompileInputs.cache
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\obj\Debug\RetrivingEnployeeDetails15_11_18.csproj.CopyComplete
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\obj\Debug\RetrivingEnployeeDetails15_11_18.exe
+D:\Github\ProjectTask\AllTasks\RetrivingEnployeeDetails15_11_18\obj\Debug\RetrivingEnployeeDetails15_11_18.pdb

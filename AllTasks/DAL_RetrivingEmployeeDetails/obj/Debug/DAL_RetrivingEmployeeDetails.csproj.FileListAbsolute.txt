@@ -1,0 +1,7 @@
+D:\Github\ProjectTask\AllTasks\DAL_RetrivingEmployeeDetails\bin\Debug\DAL_RetrivingEmployeeDetails.exe.config
+D:\Github\ProjectTask\AllTasks\DAL_RetrivingEmployeeDetails\bin\Debug\DAL_RetrivingEmployeeDetails.exe
+D:\Github\ProjectTask\AllTasks\DAL_RetrivingEmployeeDetails\bin\Debug\DAL_RetrivingEmployeeDetails.pdb
+D:\Github\ProjectTask\AllTasks\DAL_RetrivingEmployeeDetails\obj\Debug\DAL_RetrivingEmployeeDetails.csprojAssemblyReference.cache
+D:\Github\ProjectTask\AllTasks\DAL_RetrivingEmployeeDetails\obj\Debug\DAL_RetrivingEmployeeDetails.csproj.CoreCompileInputs.cache
+D:\Github\ProjectTask\AllTasks\DAL_RetrivingEmployeeDetails\obj\Debug\DAL_RetrivingEmployeeDetails.exe
+D:\Github\ProjectTask\AllTasks\DAL_RetrivingEmployeeDetails\obj\Debug\DAL_RetrivingEmployeeDetails.pdb
